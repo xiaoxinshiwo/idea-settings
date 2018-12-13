@@ -1,4 +1,6 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="alt close_bracket" />
@@ -7,6 +9,7 @@
     <keyboard-shortcut first-keystroke="meta home" />
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="GotoSymbol" />
   <action id="Maven.ExecuteGoal">
     <keyboard-shortcut first-keystroke="meta alt 0" />
@@ -14,4 +17,5 @@
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
+  <action id="SendEOF" />
 </keymap>
