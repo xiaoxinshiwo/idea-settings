@@ -9,6 +9,9 @@
     <keyboard-shortcut first-keystroke="meta home" />
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="GotoSymbol" />
   <action id="Maven.ExecuteGoal">
